@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 01ea8835d0c54c04d930cf7f39ad5743
+  m_BuildRemoteCatalog: 0
+  m_BundleLocalCatalog: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_UniqueBundleIds: 0
+  m_maxConcurrentWebRequests: 500
+  m_ContiguousBundles: 0
+  m_RemoteCatalogBuildPath:
+    m_Id: 
+  m_RemoteCatalogLoadPath:
+    m_Id: 
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: a4011e3613f1686458c21c25f9d80dee, type: 2}
+  - {fileID: 11400000, guid: 4e5c3c0b23af0504d8db27637f3d4705, type: 2}
+  - {fileID: 11400000, guid: 6709157dcac44a94c9dc96f92cbdaf52, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: c80f8721ba2082144837cb6168ceb51d
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 5868cdce450a4464ea213c9eaed71583
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 3721236826f17d94582d79f5ec023fdc
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: f5deaf60468c12a4aa8399bb1aa6d10d
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 0bec1bbec8aee86439b41e79c56cd855
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: a752b3edcd7fa3d4a9b1b2db8c8c36c9
+        m_Value: http://localhost/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: 8399b593ad418834f87d10e87b71e101
+      m_ProfileName: Remote
+      m_Values:
+      - m_Id: 5868cdce450a4464ea213c9eaed71583
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 3721236826f17d94582d79f5ec023fdc
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: f5deaf60468c12a4aa8399bb1aa6d10d
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 0bec1bbec8aee86439b41e79c56cd855
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: a752b3edcd7fa3d4a9b1b2db8c8c36c9
+        m_Value: https://360ed-universe.sgp1.digitaloceanspaces.com/Development/GIF/Android
+    m_ProfileEntryNames:
+    - m_Id: 5868cdce450a4464ea213c9eaed71583
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 3721236826f17d94582d79f5ec023fdc
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: f5deaf60468c12a4aa8399bb1aa6d10d
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: 0bec1bbec8aee86439b41e79c56cd855
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: a752b3edcd7fa3d4a9b1b2db8c8c36c9
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: f18d6207e413cfa42840c51dd1eabced, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 9130cf3b00a23b24bb613c65cb169cc8, type: 2}
+  - {fileID: 11400000, guid: e3ad3ae81d64c94499d8bf6d27701554, type: 2}
+  - {fileID: 11400000, guid: 7820f6fa7bb976742ad7eab3059751c2, type: 2}
+  - {fileID: 11400000, guid: 9adafcf24acf67243b194349d8b12cc8, type: 2}
+  m_ActiveProfileId: 8399b593ad418834f87d10e87b71e101
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []

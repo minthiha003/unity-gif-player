@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GIFImages
+  m_EditorClassIdentifier: 
+  m_GroupName: GIFImages
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8cf65b975b540334ba37643f7d5cd92e
+  m_SerializeEntries:
+  - m_GUID: 1e30ef24993491042b675ce8b9fab2ef
+    m_Address: Thigmotropism
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4900000, guid: 1e30ef24993491042b675ce8b9fab2ef, type: 3}
+    m_TargetAsset: {fileID: 4900000, guid: 1e30ef24993491042b675ce8b9fab2ef, type: 3}
+  - m_GUID: a9edc8c93c6ca614784c144e805c0b67
+    m_Address: Geotropism
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4900000, guid: a9edc8c93c6ca614784c144e805c0b67, type: 3}
+    m_TargetAsset: {fileID: 4900000, guid: a9edc8c93c6ca614784c144e805c0b67, type: 3}
+  - m_GUID: bacf099b431bc0040b1f686e42f7aa57
+    m_Address: Chomotropism
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4900000, guid: bacf099b431bc0040b1f686e42f7aa57, type: 3}
+    m_TargetAsset: {fileID: 4900000, guid: bacf099b431bc0040b1f686e42f7aa57, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e6ab1567af256aa4995a2df9a7f0843d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 31692ac9404efd949921baae2a8b8e63, type: 2}
+    - {fileID: 11400000, guid: 2c006b5a499ddf74f893e24290ba1109, type: 2}
