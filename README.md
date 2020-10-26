@@ -1,5 +1,7 @@
 # Gif Decoder
 
+## The original Gif Decoder link https://unitylist.com/p/xnx/Unity-Gif-Decoder 
+
 Custom gif decoder written from scratch, designed for Unity engine
 
 There is no gif decoding library for .net, since GifBitmapDecoder is already included in PresentationCore.dll,
